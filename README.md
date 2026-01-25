@@ -42,4 +42,3 @@ shiny::runApp()
 Zachary Daulat 
 - [LinkedIn](https://www.linkedin.com/in/zachary-daulat/) 
 - [Portfolio](https://zdaulat.quarto.pub)
-```
