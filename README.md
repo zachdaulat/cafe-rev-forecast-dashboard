@@ -27,18 +27,3 @@ Synthetic café transaction data (6 months, 149K transactions) across three New 
 ## Related Work
 
 This dashboard is part of a larger Café Transaction Analysis project covering exploratory analysis, seasonal decomposition, and product optimization.
-
-## Local Development
-```r
-# Install dependencies
-install.packages(c("shiny", "bslib", "tidyverse", "readxl", "prophet", "lubridate"))
-
-# Run app
-shiny::runApp()
-```
-
-## Contact
-
-Zachary Daulat 
-- [LinkedIn](https://www.linkedin.com/in/zachary-daulat/) 
-- [Portfolio](https://zdaulat.quarto.pub)
