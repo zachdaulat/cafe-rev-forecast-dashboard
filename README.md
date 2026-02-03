@@ -5,7 +5,7 @@ Interactive revenue forecasting dashboard for café operations, demonstrating ti
 ## Features
 
 - **Real-time Prophet forecasting:** Train models dynamically based on user-selected locations
-- **Interactive date selection:** Choose forecast periods from 1-30 days ahead
+- **Interactive date selection:** Choose forecast periods from 1-61 days ahead
 - **Confidence intervals:** Toggle between 80% and 95% intervals
 - **Staffing recommendations:** Translate revenue predictions into operational staffing needs
 
@@ -22,7 +22,7 @@ View Dashboard
 
 ## Data
 
-Synthetic café transaction data (6 months, 149K transactions) across three New York locations. Demonstrates forecasting methodology transferable to real point-of-sale systems.
+Synthetic café transaction data (6 months, 149K transactions) across three fictional New York City locations. Demonstrates forecasting methodology transferable to real point-of-sale systems.
 
 ## Related Work
 
